@@ -2,20 +2,28 @@
 # Python bytecode & cache
 # ===============================
 __pycache__/
+**/__pycache__/
 *.pyc
 *.pyo
 *.pyd
 
 # ===============================
-# Virtual Environment
+# Virtual Environments (ANY depth)
 # ===============================
 venv/
-.env/
+.venv/
+env/
+ENV/
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
 
 # ===============================
-# Environment variables
+# Environment variables (ANY depth)
 # ===============================
 .env
+**/.env
 
 # ===============================
 # VS Code / Editor files
