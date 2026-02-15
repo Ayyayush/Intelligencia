@@ -1,6 +1,6 @@
 /**
  * 📘 GenAI Playlist – LangChain
- * Lecture-5 | Video-8 | CampusX
+ * Lecture-6 | Video-8 | CampusX
  * Topic: Output Parsers
  *
  * =========================================================
