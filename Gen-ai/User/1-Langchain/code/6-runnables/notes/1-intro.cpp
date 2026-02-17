@@ -1,7 +1,7 @@
 /**
  * 📘 GenAI Playlist – LangChain
  * Lecture-8 | Video-10 | CampusX
- * Topic: Output Parsers & Chains
+ * Topic: Runnables
  *
  * --------------------------------------------------
  * RUNNABLES IN LANGCHAIN
