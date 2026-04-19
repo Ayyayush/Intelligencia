@@ -37,6 +37,12 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+
 
 # ===============================
 # Ignore specific project folders
